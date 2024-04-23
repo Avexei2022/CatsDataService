@@ -72,7 +72,6 @@ public class HomeController {
         return "admin";
     }
 
-
     /**
      * Метод подготовки страницы приватных данных
      * @param model - заготовка страницы private-data.html
