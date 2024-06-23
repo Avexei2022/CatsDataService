@@ -1,4 +1,4 @@
-package ru.gb.group_4546_5984.spring_sem07_task1.service;
+package ru.gb.group_4546_5984.cats_data_service.service;
 
 import org.springframework.stereotype.Service;
 

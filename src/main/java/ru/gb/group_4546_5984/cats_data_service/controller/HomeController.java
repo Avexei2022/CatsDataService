@@ -1,13 +1,13 @@
-package ru.gb.group_4546_5984.spring_sem07_task1.controller;
+package ru.gb.group_4546_5984.cats_data_service.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import ru.gb.group_4546_5984.spring_sem07_task1.service.AdminService;
-import ru.gb.group_4546_5984.spring_sem07_task1.service.ErrorService;
-import ru.gb.group_4546_5984.spring_sem07_task1.service.HomeService;
-import ru.gb.group_4546_5984.spring_sem07_task1.service.UserService;
+import ru.gb.group_4546_5984.cats_data_service.service.AdminService;
+import ru.gb.group_4546_5984.cats_data_service.service.ErrorService;
+import ru.gb.group_4546_5984.cats_data_service.service.HomeService;
+import ru.gb.group_4546_5984.cats_data_service.service.UserService;
 
 
 /**

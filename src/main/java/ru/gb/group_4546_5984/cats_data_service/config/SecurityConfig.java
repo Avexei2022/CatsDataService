@@ -1,4 +1,4 @@
-package ru.gb.group_4546_5984.spring_sem07_task1.config;
+package ru.gb.group_4546_5984.cats_data_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

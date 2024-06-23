@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.gb.group_4546_5984</groupId>
-	<artifactId>spring_sem07_task1</artifactId>
+	<artifactId>cats_data_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring_sem07_task1</name>
 	<description>spring security</description>
